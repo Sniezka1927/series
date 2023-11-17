@@ -1,0 +1,7 @@
+x                    series               fx                   series counter       exit reason         
+-0.92000000          -inf                 0.19577035           150                  steps limit reached
+-0.91600000          -inf                 0.19679372           150                  steps limit reached
+-0.91200000          -inf                 0.19782459           150                  steps limit reached
+-0.90800000          -inf                 0.19886304           150                  steps limit reached
+-0.90400000          -inf                 0.19990913           150                  steps limit reached
+-0.90000000          0.20081606           0.20096295           146                  accuracy too small
