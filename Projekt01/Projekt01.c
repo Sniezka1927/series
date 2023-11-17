@@ -3,11 +3,6 @@
 #include <stdlib.h>
 #pragma warning(disable:4996)
 
-// TODO
-// rename to pl
-// Dist ver
-
-
 double fx(double x) {
     // DOMAIN (-1,1)
     // (1-x)^(-5/2)
